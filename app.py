@@ -147,7 +147,7 @@ st.sidebar.caption(f"📄 {len(raw_df):,} registros historicos | {raw_df['Store 
 # ======================================================================================
 # 4. ENCABEZADO + KPIs GLOBALES
 # ======================================================================================
-st.title("📦 Demand, Inventory & Pricing Intelligence")
+st.title("📦 Gestión de la demanda, el inventario y los precios")
 st.markdown(
     '<p class="subtitle">Pronostico de demanda, optimizacion de inventario y estrategia de precios dinamicos '
     "para una cadena minorista multi-tienda.</p>",
