@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore")
 
 # 1. CONFIGURACION DE LA PAGINA
 st.set_page_config(
-    page_title="Demand, Inventory & Pricing Intelligence",
+    page_title="Gestión de la demanda, el inventario y los precios",
     page_icon="📦",
     layout="wide",
     initial_sidebar_state="expanded",
