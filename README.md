@@ -1,4 +1,4 @@
-# 📦Información sobre demanda, existencias y precios
+# 📦Gestión de la demanda, el inventario y los precios
 
 Un panel de Streamlit que abarca tres casos de uso relacionados con el análisis del sector minorista: previsión de la demanda mediante series temporales, optimización de existencias y fijación dinámica de precios, basado en datos diarios de ventas y existencias a nivel de tienda y de producto.
 
